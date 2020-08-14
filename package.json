@@ -17,6 +17,6 @@
   },
   "homepage": "https://github.com/onokatio/elliptic-curve-crypto#readme",
   "dependencies": {
-    "elliptic": "^6.5.1"
+    "elliptic": "^6.5.3"
   }
 }
